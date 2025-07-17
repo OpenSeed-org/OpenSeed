@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary or backup files
+*.bak
+*.tmp
+*~
+
+# CAD autosave or cache files (if you use Fusion 360, FreeCAD, etc.)
+*autosave*
+*.FCStd1
+__pycache__/
+
+# Logs or user session files
+*.log
