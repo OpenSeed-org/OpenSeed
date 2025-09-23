@@ -1,12 +1,12 @@
-# OpenSteel User Guide 🇬🇧
+# OpenSeed User Guide 🇬🇧
 
-This guide explains how to use the OpenSteel system to securely back up a BIP39 seed phrase using a metal plate encoded in binary with a punch tool.
+This guide explains how to use the OpenSeed system to securely back up a BIP39 seed phrase using a metal plate encoded in binary with a punch tool.
 
 ---
 
-## 🧱 What is OpenSteel?
+## 🧱 What is OpenSeed?
 
-**OpenSteel** is an open-source hardware project. It provides downloadable 3D models you can print in metal enabling you to create a durable, offline backup of your Bitcoin seed phrase.
+**OpenSeed** is an open-source hardware project. It provides downloadable 3D models you can print in metal enabling you to create a durable, offline backup of your Bitcoin seed phrase.
 
 The design is fire-resistant, waterproof, and fully offline. It is meant to be printed in stainless steel using 3D metal printing services.
 
@@ -14,16 +14,16 @@ The design is fire-resistant, waterproof, and fully offline. It is meant to be p
 
 ## 🔧 What you need
 
-- ✅ A 3D-printed OpenSteel plate (see instructions below)
+- ✅ A 3D-printed OpenSeed plate (see instructions below)
 - ✅ A **spring-loaded automatic center punch** (no hammer needed)
 - ✅ Your 12 or 24-word BIP39 seed phrase
 
 ---
 
-## 🏗️ How to print the OpenSteel plate
+## 🏗️ How to print the OpenSeed plate
 
 1. **Download the STL file**  
-   OpenSteel will offer multiple variants  available in the `/designs` folder of this repository.
+   OpenSeed will offer multiple variants  available in the `/designs` folder of this repository.
 
 2. **Use a 3D printing service**  
    Upload the file to a metal 3D printing provider such as:
@@ -65,5 +65,5 @@ Each word in your seed phrase corresponds to a binary index (1–2048). You will
 
 ---
 
-OpenSteel is a tool for self-sovereign custody.  
+OpenSeed is a tool for self-sovereign custody.  
 It is 100% free, open, and community-driven. Contributions welcome.
