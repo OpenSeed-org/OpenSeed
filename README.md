@@ -1,6 +1,6 @@
-# OpenSteel 🔐🛠️
+# OpenSeed 🔐🛠️
 
-**OpenSteel** is a free and open-source project that provides 3D printable designs for durable, metal seed phrase storage. It is designed to be sovereign, low-cost, and resistant — an alternative to commercial solutions for securing Bitcoin private keys.
+**OpenSeed** is a free and open-source project that provides 3D printable designs for durable, metal seed phrase storage. It is designed to be sovereign, low-cost, and resistant — an alternative to commercial solutions for securing Bitcoin private keys.
 
 ---
 
@@ -45,4 +45,4 @@ More info: [https://ohwr.org/cern_ohl](https://ohwr.org/cern_ohl)
 Pull requests are welcome!  
 You can help by improving designs, translating documentation, or testing different print methods.
 
-OpenSteel belongs to everyone. 🛠️
+OpenSeed belongs to everyone. 🛠️
