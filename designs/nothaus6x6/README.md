@@ -37,11 +37,8 @@ The design encodes words in **binary** using a spring-loaded center punch.
 
 ## 📐 Options for use with a 24-word seedphrase
 
-- Not recommended for full 24-word phrases due to capacity.  
-- Can be used as a **partial backup** (e.g., first 12 words only).  
+- Not enough capacity for full 24-word seedphrases.  
 - For full 24-word coverage, see the [Nothaus12x12](../nothaus12x12) or [Nothaus24x24](../nothaus24x24) designs.
-
-> A printable PDF guide will be provided to illustrate the orientation and binary layout.
 
 ---
 
