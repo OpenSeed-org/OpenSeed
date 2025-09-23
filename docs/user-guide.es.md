@@ -1,12 +1,12 @@
-# Guía de Usuario de OpenSteel 🇪🇸
+# Guía de Usuario de OpenSeed 🇪🇸
 
-Esta guía explica cómo usar OpenSteel para respaldar de forma segura una frase semilla BIP39 utilizando una placa metálica codificada en binario con un punzón automático.
+Esta guía explica cómo usar OpenSeed para respaldar de forma segura una frase semilla BIP39 utilizando una placa metálica codificada en binario con un punzón automático.
 
 ---
 
-## 🧱 ¿Qué es OpenSteel?
+## 🧱 ¿Qué es OpenSeed?
 
-**OpenSteel** es un proyecto de hardware libre y de código abierto. Proporciona modelos 3D descargables que podés imprimir en metal para crear un respaldo duradero y completamente offline de tu frase semilla de Bitcoin.
+**OpenSeed** es un proyecto de hardware libre y de código abierto. Proporciona modelos 3D descargables que podés imprimir en metal para crear un respaldo duradero y completamente offline de tu frase semilla de Bitcoin.
 
 El diseño es resistente al fuego, al agua y está pensado para ser impreso en acero inoxidable utilizando servicios de impresión 3D en metal.
 
@@ -14,16 +14,16 @@ El diseño es resistente al fuego, al agua y está pensado para ser impreso en a
 
 ## 🔧 Qué necesitás
 
-- ✅ Una placa OpenSteel impresa en 3D (ver instrucciones abajo)
+- ✅ Una placa OpenSeed impresa en 3D (ver instrucciones abajo)
 - ✅ Un **punzón automático** (no se necesita martillo)
 - ✅ Tu frase semilla BIP39 de 12 o 24 palabras
 
 ---
 
-## 🏗️ Cómo imprimir la placa OpenSteel
+## 🏗️ Cómo imprimir la placa OpenSeed
 
 1. **Descargá el archivo STL**  
-   OpenSteel ofrecerá múltiples variantes, disponibles en la carpeta `/designs` de este repositorio.
+   OpenSeed ofrecerá múltiples variantes, disponibles en la carpeta `/designs` de este repositorio.
 
 2. **Usá un servicio de impresión 3D en metal**  
    Subí el archivo STL a un proveedor como:
@@ -65,5 +65,5 @@ Cada palabra de tu frase semilla corresponde a un índice binario (1–2048). Va
 
 ---
 
-OpenSteel es una herramienta para la custodia soberana.  
+OpenSeed es una herramienta para la custodia soberana.  
 Es 100% libre, abierta y construida por la comunidad. ¡Contribuciones bienvenidas!
