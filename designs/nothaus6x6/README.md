@@ -21,6 +21,13 @@ The design encodes words in **binary** using a spring-loaded center punch.
 
 ---
 
+## 📂 Files & Preview
+
+- [⬇️ Download STL](https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus6x6/nothaus6x6-v1.stl)  
+- [👀 View in 3D (ViewSTL)](https://www.viewstl.com/?url=https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus6x6/nothaus6x6-v1.stl)
+
+---
+
 ## 📐 Options for use with a 12-word seedphrase
 
 - Use **Side A** for words 1–6 and **Side B** for words 7–12.  
@@ -48,10 +55,9 @@ The design encodes words in **binary** using a spring-loaded center punch.
 
 ## 🛠️ Usage
 
-1. [Download the STL file](https://github.com/OpenSeed-org/OpenSeed/raw/main/designs/nothaus6x6/nothaus6x6-v1.stl)
-2. Print via a 3D printing service
-3. Use a spring-loaded center punch to mark each bit according to your BIP39 seed
-4. Store securely in a safe place, away from cameras and digital devices
+1. Print the plate using a metal 3D printing service.  
+2. Use a **spring-loaded center punch** to mark each bit according to your BIP39 seed.  
+3. Store the finished plate securely, away from cameras and digital devices.
 
 ---
 
