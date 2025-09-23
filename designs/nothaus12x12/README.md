@@ -49,10 +49,11 @@ The design encodes words in **binary** using a spring-loaded center punch.
 
 ## 🛠️ Usage
 
-1. [Download the STL file](https://github.com/OpenSeed-org/OpenSeed/raw/main/designs/nothaus12x12/nothaus12x12-v1.stl)
-2. Print in stainless steel via a 3D printing service
-3. Use a spring-loaded center punch to mark each bit according to your BIP39 seed
-4. Store securely in a safe place, away from cameras and digital devices
+1. [👀 View in 3D](https://www.viewstl.com/?url=https://github.com/OpenSeed-org/OpenSeed/raw/main/designs/nothaus12x12/nothaus12x12-v1.stl)
+2. [⬇️ Download STL file](https://github.com/OpenSeed-org/OpenSeed/raw/main/designs/nothaus12x12/nothaus12x12-v1.stl)
+3. Print in stainless steel via a 3D printing service
+4. Use a spring-loaded center punch to mark each bit according to your BIP39 seed
+5. Store securely in a safe place, away from cameras and digital devices
 
 ---
 
