@@ -6,23 +6,22 @@ Each design is a downloadable 3D model intended for metal printing and use with 
 
 ---
 
-## 🔸 Nothaus
+## 📊 Nothaus Design Comparison
 
-**Nothaus** is the first and reference design of the OpenSteel project.
-
-- Shape: Circular
-- Diameter: 45 mm
-- Capacity: 24 seed words (12 per side)
+| Design           | Diameter | Words per Side | Total Capacity | Best for | Link |
+|------------------|----------|----------------|----------------|----------|------|
+| **Nothaus6x6**   | 30 mm    | 6              | 12             | Maximum portability and discretion | [View](./nothaus6x6) |
+| **Nothaus12x12** | 38 mm    | 12             | 24             | Standard backups for 12 or 24-word seeds | [View](./nothaus12x12) |
+| **Nothaus24x24** | 50 mm    | 24             | 48             | High redundancy for 24-word seeds | [View](./nothaus24x24) |
 
 ### Features
 
-- Binary-only layout (each seed word is encoded as a 12-bit pattern)
+- Binary-only layout (each seed word is encoded as a 12-bit binary pattern)
 - Engraved mark on the center of one side to indicate "side A"
-- Through hole acts as starting point and optional hanging point
-- Slightly concave surface to protect against abrasion
-- Requires only a center punch — no engraving, laser, or stamping kits
-
-> A printable visual guide (PDF) will be added soon to help interpret the layout and word positions.
+- Through hole acts as starting point reference
+- Slightly concave surface to protect against wear
+- Optional hanging point on the side
+- Requires only an automatic center punch — no engraving, laser, or stamping kits
 
 ---
 
