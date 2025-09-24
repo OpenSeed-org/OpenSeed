@@ -1,6 +1,6 @@
-# OpenSteel Design Library
+# OpenSeed Design Library
 
-This folder contains all official OpenSteel design variants.
+This folder contains all official OpenSeed design variants.
 
 Each design is a downloadable 3D model intended for metal printing and use with a spring-loaded center punch. All variants encode BIP39 seed words using binary marking — no visible letters or numbers are used.
 
@@ -27,7 +27,7 @@ Each design is a downloadable 3D model intended for metal printing and use with 
 
 ## 🧩 How to contribute a design
 
-If you'd like to submit your own OpenSteel-compatible design, follow these steps:
+If you'd like to submit your own OpenSeed-compatible design, follow these steps:
 
 1. Create a folder inside `/designs/` with your design name.
 2. Include your `.stl` file(s).
