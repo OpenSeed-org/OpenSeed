@@ -1,42 +1,52 @@
-# OpenSeed 🔐🛠️
+# OpenSeed
 
-**OpenSeed** is a free and open-source project that provides 3D printable designs for durable, metal seed phrase storage. It is designed to be sovereign, low-cost, and resistant — an alternative to commercial solutions for securing Bitcoin private keys.
+**OpenSeed** is an open-source hardware project for secure, durable, and offline backup of Bitcoin seed phrases.
+A decentralized and sovereign alternative to commercial solutions.
 
----
-
-## 🔧 Project Goals
-
-- 🔓 **Free and open** – No paywalls, no proprietary designs.
-- 🧱 **Resilient** – Optimized for metal 3D printing (steel, titanium).
-- 🧠 **Standards compliant** – Supports BIP39 (12/24-word seed phrases).
-- 🛠️ **DIY-friendly** – Designed to be fabricated via accessible services like JLC3DP, Craftcloud, or local 3D print shops.
-- 🧍 **User-sovereign** – No reliance on centralized services or companies.
+The project provides 3D-printable designs to be manufactured in metal and engraved using a simple spring-loaded center punch.  
+All designs use **binary encoding** of BIP39 words — no visible letters or numbers are stored on the plate.
 
 ---
 
-## 📂 Repository structure
+## Why OpenSeed?
 
-- `/designs` – 3D models (.STL, .STEP) ready for printing.
-- `/docs` – Guides, printing instructions, safety recommendations.
-- `/variants` – Experimental or specialized versions (e.g. passphrase support).
-
----
-
-## ⚙️ Printing suggestions
-
-- **Material:** Stainless steel or titanium recommended.
-- **Thickness:** Minimum 3–4mm for durability.
-- **Services:** JLC3DP, Craftcloud, Shapeways, etc.
-- **Layout:** Optimized for laser engraving, stamping, or manual marking.
+- 🌍 **Open source** — free to use, modify, and improve
+- 🧱 **Resistant** – fireproof, waterproof, no moving parts
+- 🧠 **Standards compliant** – Supports BIP39 (12/24-word seed phrases)
+- 🛠️ **Simple** – no moving parts and requires only an automatic center punch
 
 ---
 
-## 🛡️ License
+## 📂 Project structure
 
-This project is released under the **CERN Open Hardware License v2 – Permissive**.  
-You are free to use, modify, and distribute the designs, including commercially. Improvements must be shared under the same license.
+- `/designs/` → official OpenSeed designs (Nothaus6x6, Nothaus12x12, Nothaus24x24)  
+- `/docs/` → user guides, marking instructions, and translations  
+- `/LICENSE` → license information (CERN-OHL-P v2)
 
-More info: [https://ohwr.org/cern_ohl](https://ohwr.org/cern_ohl)
+---
+
+## 🚀 Getting started
+
+1. Go to the [`/designs/`](./designs) folder.  
+2. Choose the plate variant that best suits your needs.  
+3. Download the STL and print it via a metal 3D printing services (JLC3DP, Craftcloud, Shapeways).
+4. Use a spring-loaded center punch to encode your seed in binary.
+
+---
+
+## 📚 Resources
+
+- [🇬🇧 User Guide (English)](./docs/user-guide.en.md)  
+- [🇪🇸 Guía de usuario (Español)](./docs/user-guide.es.md)  
+- [📂 Design Library](./designs) — all official OpenSeed designs variants
+
+---
+
+## 📜 License
+
+OpenSeed is licensed under the **CERN-OHL-P v2**.  
+You are free to use, modify, and share the designs under the terms of this license.  
+See the [LICENSE](./LICENSE) file for details.
 
 ---
 
