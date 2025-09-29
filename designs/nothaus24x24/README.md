@@ -1,4 +1,6 @@
-# Nothaus24x24 Design
+# Nothaus24x24
+
+![Nothaus12x12 render](../../docs/images/nothaus24x24.png)
 
 **Nothaus24x24** is the largest variant of the OpenSeed project.  
 
