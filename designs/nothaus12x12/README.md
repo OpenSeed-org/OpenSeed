@@ -1,4 +1,6 @@
-# Nothaus12x12 Design
+# Nothaus12x12
+
+![Nothaus12x12 render](../../docs/images/nothaus12x12.png)
 
 **Nothaus12x12** is the first reference design of the OpenSeed project.
 
