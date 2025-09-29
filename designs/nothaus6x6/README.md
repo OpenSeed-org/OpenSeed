@@ -1,4 +1,6 @@
-# Nothaus6x6 Design
+# Nothaus6x6
+
+![Nothaus12x12 render](../../docs/images/nothaus6x6.png)
 
 **Nothaus6x6** is a compact variant of the OpenSeed project.  
 
