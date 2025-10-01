@@ -5,7 +5,7 @@
 **Nothaus6x6** is a compact variant of the OpenSeed project.  
 
 It is designed for portability and discretion, making it suitable for situations where space is limited or a smaller backup is preferred.  
-The design encodes words in **binary** using a spring-loaded center punch.
+The design encodes words in [**binary**](../../docs/Bip39-Binary.pdf) using a spring-loaded center punch.
 
 ---
 
@@ -27,6 +27,7 @@ The design encodes words in **binary** using a spring-loaded center punch.
 
 - [⬇️ Download STL](https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus6x6/nothaus6x6-v1.stl)  
 - [👀 View in 3D (ViewSTL)](https://www.viewstl.com/?url=https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus6x6/nothaus6x6-v1.stl)
+- [BIP39 Binary (PDF)](../../docs/Bip39-Binary.pdf)
 
 ---
 
