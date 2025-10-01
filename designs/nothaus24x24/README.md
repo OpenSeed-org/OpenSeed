@@ -5,7 +5,7 @@
 **Nothaus24x24** is the largest variant of the OpenSeed project.  
 
 It is designed for **maximum redundancy and capacity**, making it ideal if we are looking for redundancy for 24-word passphrases.  
-The design encodes words in **binary** using a spring-loaded center punch.
+The design encodes words in [**binary**](../../docs/Bip39-Binary.pdf) using a spring-loaded center punch.
 
 ---
 
@@ -20,6 +20,14 @@ The design encodes words in **binary** using a spring-loaded center punch.
   - Central engraved mark on one side to indicate "Side A"
   - Shallow central hole for orientation (starting point)
 - **Surface:** Slightly concave to reduce abrasion and protect against wear
+
+---
+
+## 📂 Files & Preview
+
+- [⬇️ Download STL](https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus24x24/nothaus24x24-v1.stl)  
+- [👀 View in 3D (ViewSTL)](https://www.viewstl.com/?url=https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus24x24/nothaus24x24-v1.stl)
+- [BIP39 Binary (PDF)](../../docs/Bip39-Binary.pdf)
 
 ---
 
@@ -46,15 +54,6 @@ The design encodes words in **binary** using a spring-loaded center punch.
 - **Material:** Stainless Steel 316L or Titanium  
 - **Finish:** Raw metal (no polish required)  
 - **Method:** 3D metal printing via services such as JLC3DP, Craftcloud, or Shapeways  
-
----
-
-## 📂 Files & Preview
-
-- [⬇️ Download STL](https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus24x24/nothaus24x24-v1.stl)  
-- [👀 View in 3D (ViewSTL)](https://www.viewstl.com/?url=https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus24x24/nothaus24x24-v1.stl)
-
-> **Note:** The 3D preview link will work once this repository is public.
 
 ---
 
