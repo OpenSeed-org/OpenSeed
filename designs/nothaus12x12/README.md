@@ -5,7 +5,7 @@
 **Nothaus12x12** is the first reference design of the OpenSeed project.
 
 It is a compact, circular plate intended for durable backup of a 12- or 24-word BIP39 seed phrase.  
-The design encodes words in **binary** using a spring-loaded center punch.
+The design encodes words in [**binary**](../../docs/Bip39-Binary.pdf) using a spring-loaded center punch.
 
 ---
 
@@ -27,6 +27,7 @@ The design encodes words in **binary** using a spring-loaded center punch.
 
 - [⬇️ Download STL](https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus12x12/nothaus12x12-v1.stl)  
 - [👀 View in 3D (ViewSTL)](https://www.viewstl.com/?url=https://raw.githubusercontent.com/OpenSeed-org/OpenSeed/main/designs/nothaus12x12/nothaus12x12-v1.stl)
+- [BIP39 Binary (PDF)](../../docs/Bip39-Binary.pdf)
 
 ---
 
