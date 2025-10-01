@@ -1,4 +1,5 @@
-# OpenSeed
+# OpenSeed 
+[![Donate with Lightning](https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F-Donate-orange)](https://getalby.com/p/openseed) [![License: CERN-OHL-P v2](https://img.shields.io/badge/License-CERN--OHL--P--v2-blue)](./LICENSE)
 
 **OpenSeed** is an open-source hardware project for secure, durable, and offline backup of Bitcoin seed phrases.
 A decentralized and sovereign alternative to commercial solutions.
@@ -48,8 +49,6 @@ All designs use **binary encoding** of BIP39 words — no visible letters or num
 If you find this project useful, you can support its development with a Lightning donation:
 
 ⚡️ `openseed@getalby.com`
-
-[![Donate with Lightning](https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F-Donate-orange)](https://getalby.com/p/openseed)
 
 ![Donate with Lightning](./docs/images/openseed@getalby.com.png)
 
