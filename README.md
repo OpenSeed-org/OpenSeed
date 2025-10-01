@@ -39,6 +39,7 @@ All designs use **binary encoding** of BIP39 words — no visible letters or num
 - [🇬🇧 User Guide (English)](./docs/user-guide.en.md)  
 - [🇪🇸 Guía de usuario (Español)](./docs/user-guide.es.md)  
 - [📂 Design Library](./designs) — all official OpenSeed designs variants
+- [📑 BIP39 Binary (PDF)](./docs/Bip39-Binary.pdf)
 
 ---
 
