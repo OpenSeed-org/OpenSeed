@@ -5,7 +5,7 @@
 A decentralized and sovereign alternative to commercial solutions.
 
 The project provides 3D-printable designs to be manufactured in metal and engraved using a simple spring-loaded center punch.  
-All designs use **binary encoding** of BIP39 words — no visible letters or numbers are stored on the plate.
+All designs use [**binary encoding**](../../docs/Bip39-Binary.pdf) of BIP39 words — no visible letters or numbers are stored on the plate.
 
 ---
 
