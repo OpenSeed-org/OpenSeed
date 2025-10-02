@@ -8,7 +8,7 @@ A decentralized and sovereign alternative to commercial solutions.
 The project provides 3D-printable designs to be manufactured in metal and engraved using a simple spring-loaded center punch.  
 All designs use [**binary encoding**](../../docs/Bip39-Binary.pdf) of BIP39 words — no visible letters or numbers are stored on the plate.
 
-[![Donate with Lightning](https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F-Donate-orange)](https://getalby.com/p/openseed) [![License: CERN-OHL-P v2](https://img.shields.io/badge/License-CERN--OHL--P--v2-blue)](./LICENSE)
+[![Donate with Lightning](https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F-Donate-orange)](https://getalby.com/p/openseed) [![Thingiverse](https://img.shields.io/badge/Thingiverse-1389FD.svg)](https://www.thingiverse.com/openseed/designs) [![License: CERN-OHL-P v2](https://img.shields.io/badge/License-CERN--OHL--P--v2-blue)](./LICENSE)
 
 ---
 
